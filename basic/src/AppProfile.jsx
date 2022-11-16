@@ -2,7 +2,7 @@ import './App.css';
 import Avatar from './components/Avatar';
 import Profile from './components/Profile';
 
-function App() {
+export default function App() {
   return (
     <div className='App'>
       <Avatar //
@@ -34,5 +34,3 @@ function App() {
     </div>
   );
 }
-
-export default App;
