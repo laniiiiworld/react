@@ -19,6 +19,7 @@
     - 중첩된 객체를 상태로 관리하는 연습
   - [챌린지]멘토 이름/타이틀 바꾸기2([소스](https://github.com/laniiiiworld/react/blob/main/basic/src/deep/AppMentors.jsx))
     - 배열을 상태로 관리하는 연습
+    - 관련 내용 : useReducer(컴포넌트에서 객체를 업데이트하는 로직들 분리)
 - [실전 프로젝트] Habit Tracker : https://github.com/laniiiiworld/habit-tracker-react
   - 관련 내용
     - 클래스 컴포넌트 VS 함수형 컴포넌트
