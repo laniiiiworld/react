@@ -15,11 +15,11 @@
     - 관련 내용 : Lifecycle, useEffect(), 고유한 key, json파일 fetch하는 방법
   - [챌린지] 마우스 커서 따라가기([소스](https://github.com/laniiiiworld/react/blob/main/basic/src/deep/AppXY.jsx))
     - 객체를 상태로 관리하는 연습
-  - [챌린지]멘토 이름/타이틀 바꾸기1([소스](https://github.com/laniiiiworld/react/blob/main/basic/src/deep/AppMentor.jsx))
-    - 중첩된 객체를 상태로 관리하는 연습
-  - [챌린지]멘토 이름/타이틀 바꾸기2([소스](https://github.com/laniiiiworld/react/blob/main/basic/src/deep/AppMentors.jsx))
+  - [챌린지]멘토 이름/타이틀 바꾸기
+    - 중첩된 객체를 상태로 관리하는 연습([소스](https://github.com/laniiiiworld/react/blob/main/basic/src/deep/AppMentor.jsx))
     - 배열을 상태로 관리하는 연습
-    - 관련 내용 : useReducer(컴포넌트에서 객체를 업데이트하는 로직들 분리)
+      - useReducer: 컴포넌트에서 객체를 업데이트하는 로직들 분리([소스](https://github.com/laniiiiworld/react/blob/main/basic/src/deep/AppMentors.jsx))
+      - Immer 연습([소스](https://github.com/laniiiiworld/react/blob/main/basic/src/deep/AppMentorsImmer.jsx))
 - [실전 프로젝트] Habit Tracker : https://github.com/laniiiiworld/habit-tracker-react
   - 관련 내용
     - 클래스 컴포넌트 VS 함수형 컴포넌트
